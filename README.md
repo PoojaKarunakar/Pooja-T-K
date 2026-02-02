@@ -8,15 +8,15 @@ I’m passionate Data Analyst and aspiring Data Scientist. I love transforming d
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://wallpaperaccess.com/full/3959334.png" width="560px"/>
   
 ### 🧐 More About Me:
 
 - 🧐 &nbsp; Hi, I’m a Data Enthusiast!
-- ✨ Currently working as a Data Analyst
+- ✨ &nbsp; Currently working as a Data Analyst
 - 🔭 &nbsp; Exploring Data Science & ML
 - 🤝 &nbsp; Open to data & ML projects 📊
-- 🌱 Learning Python | SQL | Power BI | TypeScript 💻
+- 🌱 &nbsp; Learning Python | SQL | Power BI | TypeScript 💻
 - 👨🏻‍💻 &nbsp; Check my GitHub for projects 🛠️
 - 💬 &nbsp; Ask me anything tech or data 💡
 - 📫 &nbsp; Connect on LinkedIn 🤝
@@ -29,9 +29,9 @@ I’m passionate Data Analyst and aspiring Data Scientist. I love transforming d
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://tse1.mm.bing.net/th/id/OIP.VgEcvRUow56Z6tiuVRDmJgHaEK?pid=Api&P=0&h=200"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://iaccountancy.org/wp-content/uploads/2020/09/power-bi-1-logo.jpg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
