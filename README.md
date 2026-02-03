@@ -8,9 +8,9 @@ I’m passionate Data Analyst and aspiring Data Scientist. I love transforming d
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://wallpaperaccess.com/full/3959334.png" width="560px"/>
+<img align="right" alt="GIF" src="https://wallpaperaccess.com/full/3959334.png" width="550px"/>
   
-### 🧐 More About Me:
+### More About Me:
 
 - 🧐 &nbsp; Hi, I’m a Data Enthusiast!
 - ✨ &nbsp; Currently working as a Data Analyst
@@ -43,15 +43,6 @@ I’m passionate Data Analyst and aspiring Data Scientist. I love transforming d
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
 
 ### 🛠️ My Projects
 <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
