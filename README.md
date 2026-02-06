@@ -16,11 +16,11 @@ I’m passionate Data Analyst and aspiring Data Scientist. I love transforming d
 - ✨ &nbsp; Currently working as a Data Analyst
 - 🔭 &nbsp; Exploring Data Science & ML
 - 🤝 &nbsp; Open to data & ML projects 📊
-- 🌱 &nbsp; Learning Python | SQL | Power BI | TypeScript 💻
+- 🌱 &nbsp; Learning Python | SQL | Power BI 
 - 👨🏻‍💻 &nbsp; Check my GitHub for projects 🛠️
 - 💬 &nbsp; Ask me anything tech or data 💡
 - 📫 &nbsp; Connect on LinkedIn 🤝
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [Resume](https://github.com/PoojaKarunakar/Pooja-T-K/blob/main/Data%20Analyst%20Resume.1.pdf)
 - 📚 &nbsp; Love data blogs & fiction novels 📖
 
 <br>
@@ -41,13 +41,3 @@ I’m passionate Data Analyst and aspiring Data Scientist. I love transforming d
 <a href="https://www.figma.com/" target="_blank"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/aorrhjh73dkmjqpdm6ee" alt="figma" height='82px'/> </a>
 
 <br>
-
-
-
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
